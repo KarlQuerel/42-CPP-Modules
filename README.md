@@ -48,19 +48,7 @@ The C++ curriculum at School 42 consists of eight modules, each covering a speci
 - **Objective**: Explore the fundamentals of Object-Oriented Programming (OOP) in C++.
 - **Key Topics**: Classes, objects, encapsulation, inheritance, and polymorphism.
 
-## Resources
-
-- **Official Documentation**: [cplusplus.com](http://www.cplusplus.com/doc/tutorial/)
-- **Textbooks**: "Effective Modern C++" by Scott Meyers
-- **Online Resources**: [GeeksforGeeks](https://www.geeksforgeeks.org/cpp/) and [LearnCpp](https://www.learncpp.com/cpp-tutorial/introduction-to-cpp/)
-
-## Assessment
-
-Each module will be assessed through a combination of assignments, quizzes, and projects that test your understanding and application of the concepts covered.
-
-## Contact Information
-
-For inquiries related to these modules, please contact your instructor or the School 42 administration.
+TO BE CONTINUED
 
 ---
 
