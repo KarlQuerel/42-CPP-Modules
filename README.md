@@ -1,55 +1,47 @@
-# School 42 C++ Modules Documentation
+<a id="top"></a>
 
-Welcome to the C++ modules at School 42! These modules are designed to deepen your understanding of C++, focusing on Object-Oriented Programming (OOP) principles and advanced features of the language.
+# C++ Modules
+This repository contains a series of C++ modules designed to teach fundamental concepts of the language, with a strong emphasis on Object-Oriented Programming (OOP) principles and advanced features. Each module builds on previous knowledge and introduces new topics, ensuring a comprehensive understanding of C++.
 
-## Overview
+## Table of Contents
+- [About](#about)
+- [Installation](#installation)
 
-The C++ curriculum at School 42 consists of eight modules, each covering a specific aspect of the language. These modules are intended to progressively build your skills from foundational knowledge to advanced concepts, preparing you for real-world software development challenges.
+# About
 
-## Modules
+### Module Overview
+- **Module 00:** Introduction to namespaces, classes, member functions, standard input/output streams, initialization lists, `static`, `const`, and more.
+- **Module 01:** Memory allocation, pointers to members, references, and the switch statement.
+- **Module 02:** Ad-hoc polymorphism, operator overloading, and the Orthodox Canonical class form.
+- **Module 03:** Fundamentals of inheritance.
+- **Module 04:** Subtype polymorphism, abstract classes, and interfaces.
+- **Module 05:** Repetition constructs and exception handling.
+- **Module 06:** C++ casting mechanisms.
+- **Module 07:** C++ templates and their usage.
+- **Module 08:** Templated containers, iterators, and standard algorithms.
+- **Module 09:** Implementation of the Ford–Johnson algorithm.
 
-### Module 00: Language Fundamentals
+# Installation
 
-- **Objective**: Understand the specifics of C++ when compared to C.
-- **Key Topics**: Memory allocation, references, pointers to members, and the usage of the switch statement in C++.
+To set up this project locally, follow these steps:
 
-### Module 01: Advanced Memory Management
+1. **Clone the repository to your local machine:**
+    ```sh
+    git clone https://github.com/KarlQuerel/42-CPP-Modules
+    ```
 
-- **Objective**: Deepen your understanding of memory allocation, reference, pointers to members, and the usage of the switch in C++.
-- **Key Topics**: Ad-hoc polymorphism, overloads, and orthodox canonical classes in C++.
+2. **Navigate to the project directory:**
+    ```sh
+    cd 42-CPP-Modules
+    ```
 
-### Module 02: Inheritance and Polymorphism
+3. **For each exercise, navigate to its corresponding directory and compile the project using `make`:**
+    ```sh
+    cd <exercise-directory>
+    make
+    ```
+   *Replace `<exercise-directory>` with the name of the specific exercise you want to compile.*
 
-- **Objective**: Learn about inheritance, subtype polymorphism, abstract classes, and interfaces in C++.
-- **Key Topics**: In-depth exploration of inheritance and polymorphism in C++.
+For comprehensive details, please visit the [subject directory](https://github.com/KarlQuerel/42-CPP-Modules/tree/master/docs).
 
-### Module 03: Exception Handling
-
-- **Objective**: Understand try/catch and exceptions in C++.
-- **Key Topics**: Exception handling mechanisms in C++.
-
-### Module 04: Type Casting
-
-- **Objective**: Grasp the concept of different casts in C++.
-- **Key Topics**: Understanding type casting in C++.
-
-### Module 05: Templates
-
-- **Objective**: Dive into templates in C++.
-- **Key Topics**: Template metaprogramming and its applications in C++.
-
-### Module 06: Containers, Iterators, and Algorithms
-
-- **Objective**: Learn about templated containers, iterators, and algorithms in C++.
-- **Key Topics**: Working with STL containers, iterators, and algorithms.
-
-### Module 07: Introduction to Object-Oriented Programming
-
-- **Objective**: Explore the fundamentals of Object-Oriented Programming (OOP) in C++.
-- **Key Topics**: Classes, objects, encapsulation, inheritance, and polymorphism.
-
-TO BE CONTINUED
-
----
-
-**Note**: This documentation serves as a guideline and may be subject to changes as per the academic year and curriculum updates. Always refer to your course syllabus for the most accurate and up-to-date information.
+[Back to Top](#top)
